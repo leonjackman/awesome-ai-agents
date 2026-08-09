@@ -49,6 +49,7 @@ AI Agents are autonomous systems that use LLMs to reason, plan, and take actions
 - [Orkas](https://github.com/Orkas-AI/Orkas) — Open-source desktop workspace for coordinating specialist AI agents in parallel or sequence.
 - [Octochains](https://github.com/ahmadvh/octochains) — Parallel isolated multi-agent reasoning with centralized  aggregation for high-stakes decision-making.
 - [Ruflo](https://github.com/ruvnet/ruflo) — Agent orchestration platform optimized for Claude. Features self-learning swarms, distributed intelligence, RAG integration, and native Claude Code/Codex integration. Formerly claude-flow.
+- [QM](https://github.com/yc-software/qm) — Y Combinator's open-source multiplayer agent harness for companies. Personal and shared scopes, Slack + web UI, org-level policy/security posture, shared skills, crons, and durable sandboxes. Pluggable coding loops (Pi, OpenCode, Codex, Claude Code). MIT.
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) — Microsoft's SDK for AI orchestration. Plugins, planners, and memory.
 - [Strands Agents](https://github.com/strands-agents/harness-sdk) — AWS's model-driven, open-source SDK for building production AI agents in Python and TypeScript. Any model, any cloud, with MCP support and 23M+ monthly PyPI downloads. Apache-2.0.
 - [Swarm](https://github.com/openai/swarm) — OpenAI's lightweight multi-agent framework (educational).
@@ -60,6 +61,7 @@ AI Agents are autonomous systems that use LLMs to reason, plan, and take actions
 - [Haystack](https://github.com/deepset-ai/haystack) — End-to-end NLP framework with agent pipelines.
 - [Instructor](https://github.com/jxnl/instructor) — Structured output from LLMs. Essential for reliable tool use.
 - [LangChain](https://github.com/langchain-ai/langchain) — The most popular LLM application framework. Agents, chains, tools.
+- [LangChain Deep Agents](https://github.com/langchain-ai/deepagents) — LangChain's batteries-included, opinionated agent harness built on LangGraph. Filesystem, sub-agent spawning, todo tracking, and skills bundled in; extend or replace any piece. Model-agnostic, MIT. Also available as [Deep Agents.js](https://github.com/langchain-ai/deepagentsjs).
 - [LlamaIndex](https://github.com/run-llama/llama_index) — Data framework for LLM apps. Strong RAG and data agent support.
 - [PydanticAI](https://github.com/pydantic/pydantic-ai) — GenAI agent framework, the Pydantic way. Type-safe and production-ready.
 - [smolagents](https://github.com/huggingface/smolagents) — Hugging Face's lightweight agent library. ~1,000 lines of focused code, easy to understand and extend.
@@ -73,6 +75,7 @@ AI Agents are autonomous systems that use LLMs to reason, plan, and take actions
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) — Open-source AI agent bringing Gemini directly into your terminal.
 - [GitHub Copilot](https://github.com/features/copilot) — AI pair programmer with agent mode for multi-file edits, terminal commands, and autonomous task execution.
 - [Goose](https://github.com/block/goose) — Block's open-source extensible AI agent for full-cycle development. Desktop app, CLI, and API with native MCP support, 70+ extensions, and LLM-agnostic design. Now under the Linux Foundation's Agentic AI Foundation (AAIF).
+- [Grok Build](https://github.com/xai-org/grok-build) — xAI's terminal-based coding agent CLI/TUI, synced from the SpaceXAI monorepo. Full-screen, mouse-interactive, understands the codebase, executes shell commands, supports headless/CI use and editor embedding via the Agent Client Protocol (ACP). Apache-2.0.
 - [Kimi Code CLI](https://github.com/MoonshotAI/kimi-code) — Moonshot AI's single-binary terminal coding agent, successor to Kimi CLI. Video input for reviewing screen recordings, AI-native MCP configuration, built-in coder/explore/plan subagents, lifecycle hooks, and Agent Client Protocol (ACP) support for Zed/JetBrains. MIT.
 - [Kiro](https://kiro.dev/) — AWS's spec-driven AI coding IDE. Three-phase Specify, Plan, Execute workflow.
 - [MiMoCode](https://github.com/XiaoMi/mimocode) — Xiaomi's open-source terminal-native AI coding agent with cross-session persistent memory, subagent orchestration, and self-improvement via `/dream` and `/distill` commands. Fork of OpenCode with SQLite FTS5 memory, task trees, and multi-agent compose mode. 6K+ stars, MIT.
