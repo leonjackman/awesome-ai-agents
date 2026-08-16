@@ -89,6 +89,8 @@ AI Agents are autonomous systems that use LLMs to reason, plan, and take actions
 - [Open SWE](https://github.com/langchain-ai/open-swe) — LangChain's open-source async cloud coding agent. Connects to GitHub repos, delegates tasks from issues via Slack or Linear.
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) — AI software development agent (formerly OpenDevin).
 - [OpenHands Software Agent SDK](https://github.com/OpenHands/software-agent-sdk) — Modular Python SDK for building code agents. Local or ephemeral workspaces, composable tools, powers OpenHands CLI and Cloud.
+- [pi](https://github.com/earendil-works/pi) — AI agent toolkit bundling a unified LLM API, agent loop, TUI, and coding agent CLI in one package. 91K+ stars, MIT.
+- [Prime Agent](https://github.com/PrimeIntellect-ai/prime-agent) — Prime Intellect's self-improving RLM agent for coding workflows and long-horizon autonomous tasks. MIT.
 - [Proliferate](https://proliferate.com/) — Open-source local and cloud agent IDE with parallel workspaces, subagents, plugins, and MCP.
 - [Qwen Code](https://github.com/QwenLM/qwen-code) — Alibaba's open-source terminal-native AI coding agent. Powered by Qwen models with MCP support, 25K+ stars, and Apache-2.0 license.
 - [SWE-agent](https://github.com/princeton-nlp/SWE-agent) — Princeton's software engineering agent.
@@ -106,6 +108,7 @@ AI Agents are autonomous systems that use LLMs to reason, plan, and take actions
 
 ### Browser Agents
 - [Browser Use](https://github.com/browser-use/browser-use) — Control browsers with AI agents. Most popular browser automation framework.
+- [BrowserOS](https://github.com/browseros-ai/BrowserOS) — Open-source agentic browser and alternative to ChatGPT Atlas, Perplexity Comet, and Dia. Runs agents locally against your own browsing session. AGPL-3.0.
 - [Playwright MCP](https://github.com/anthropics/anthropic-tools) — Anthropic's browser automation via MCP.
 - [Stagehand](https://github.com/browserbase/stagehand) — AI-powered browser automation framework by Browserbase.
 - [UI-TARS Desktop](https://github.com/bytedance/UI-TARS-desktop) — ByteDance's multimodal AI agent stack for desktop automation.
