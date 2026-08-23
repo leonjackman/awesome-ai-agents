@@ -65,6 +65,7 @@ AI Agents are autonomous systems that use LLMs to reason, plan, and take actions
 - [LlamaIndex](https://github.com/run-llama/llama_index) — Data framework for LLM apps. Strong RAG and data agent support.
 - [PydanticAI](https://github.com/pydantic/pydantic-ai) — GenAI agent framework, the Pydantic way. Type-safe and production-ready.
 - [smolagents](https://github.com/huggingface/smolagents) — Hugging Face's lightweight agent library. ~1,000 lines of focused code, easy to understand and extend.
+- [TrueForge](https://github.com/truefoundry/trueforge) — Open-source agent harness: the runtime layer that turns any LLM into a working agent. Model-agnostic loop, tool registry, and session state for production deployments. MIT.
 
 ### Code Agents
 - [Aider](https://github.com/paul-gauthier/aider) — AI pair programming in the terminal.
@@ -74,6 +75,7 @@ AI Agents are autonomous systems that use LLMs to reason, plan, and take actions
 - [Codex](https://openai.com/index/introducing-codex/) — OpenAI's cloud-based coding agent. Runs tasks in sandboxed environments, integrates with GitHub.
 - [Cursor](https://cursor.sh/) — AI-first code editor with agent capabilities.
 - [dcode](https://docs.langchain.com/oss/deepagents/code/overview) — Open-source terminal coding agent by LangChain. Model-agnostic with persistent memory and sandboxing.
+- [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) — DeepSeek's plugin-first, provider-agnostic agent harness ("everything is a plugin"). Inference, tools, sessions, agent loop, sandbox, and web UI are all swappable modules. Works with DeepSeek, Anthropic, OpenAI, Bedrock, Vertex, Azure, and OpenAI-compatible endpoints. MIT, developer preview.
 - [Devin](https://devin.ai/) — Cognition's autonomous software engineer. Full environment with browser, editor, and terminal.
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) — Open-source AI agent bringing Gemini directly into your terminal.
 - [GitHub Copilot](https://github.com/features/copilot) — AI pair programmer with agent mode for multi-file edits, terminal commands, and autonomous task execution.
@@ -197,6 +199,7 @@ AI Agents are autonomous systems that use LLMs to reason, plan, and take actions
 
 ### Sandboxing & Execution
 - [AgentBox](https://github.com/madarco/agentbox) — Run multiple coding agents (Claude Code, Codex, OpenCode) in parallel, each in its own sandboxed VM across local Docker, self-hosted, or cloud (Hetzner, Daytona, Vercel, E2B). Sub-1s checkpoints, per-box browser/VS Code/shells. MIT.
+- [AgentENV](https://github.com/kvcache-ai/AgentENV) — Distributed platform for running agent environments at scale. Standardized, reproducible sandboxed environments for agent execution, evaluation, and RL training workloads. MIT.
 - [CubeSandbox](https://github.com/TencentCloud/CubeSandbox) — Tencent Cloud's instant, concurrent, secure, and lightweight Rust-based sandbox for AI agents. Sub-second cold start with strong isolation for tool execution and code interpreters.
 - [Daytona](https://github.com/daytonaio/daytona) — Secure and elastic infrastructure for running AI-generated code.
 - [E2B](https://github.com/e2b-dev/e2b) — Cloud sandboxes for AI agents. Secure code execution environments.
