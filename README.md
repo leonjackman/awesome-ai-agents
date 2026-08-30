@@ -111,6 +111,7 @@ AI Agents are autonomous systems that use LLMs to reason, plan, and take actions
 ### Browser Agents
 - [Browser Use](https://github.com/browser-use/browser-use) — Control browsers with AI agents. Most popular browser automation framework.
 - [BrowserOS](https://github.com/browseros-ai/BrowserOS) — Open-source agentic browser and alternative to ChatGPT Atlas, Perplexity Comet, and Dia. Runs agents locally against your own browsing session. AGPL-3.0.
+- [BrowserSkill](https://github.com/Tencent/BrowserSkill) — Tencent's CLI and browser extension that lets AI agents drive your real, logged-in browser without interrupting your work. Works with any shell-capable agent (Claude Code, Codex, Cursor, OpenClaw). MIT.
 - [Playwright MCP](https://github.com/anthropics/anthropic-tools) — Anthropic's browser automation via MCP.
 - [Stagehand](https://github.com/browserbase/stagehand) — AI-powered browser automation framework by Browserbase.
 - [UI-TARS Desktop](https://github.com/bytedance/UI-TARS-desktop) — ByteDance's multimodal AI agent stack for desktop automation.
@@ -218,6 +219,7 @@ AI Agents are autonomous systems that use LLMs to reason, plan, and take actions
 - [AgentBench](https://github.com/THUDM/AgentBench) — Tsinghua's multi-dimensional agent benchmark.
 - [AgentBoard](https://github.com/hkust-nlp/AgentBoard) — Multi-round agent evaluation platform.
 - [ClawBench](https://github.com/reacher-z/ClawBench) — Live-site benchmark for browser agents completing everyday online workflows.
+- [ExploitGym](https://github.com/sunblaze-ucb/exploitgym) — Large-scale benchmark built from real-world CVEs for evaluating whether AI agents can develop working exploits. From UC Berkeley's Sunblaze lab. Apache-2.0.
 - [GAIA](https://huggingface.co/gaia-benchmark) — General AI Assistants benchmark by Meta.
 - [LangTest](https://github.com/Pacific-AI-Corp/langtest) — Testing framework for delivering safe & effective language models.
 - [RuLES](https://github.com/normster/llm_rules) — Benchmark for evaluating rule-following in language models.
@@ -238,6 +240,7 @@ AI Agents are autonomous systems that use LLMs to reason, plan, and take actions
 - [LangFair](https://github.com/cvs-health/langfair) — Python library for LLM bias and fairness assessments.
 - [LLM Guard](https://github.com/protectai/llm-guard) — Security toolkit for LLM interactions.
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) — NVIDIA's programmable guardrails.
+- [Numbat](https://github.com/perplexityai/numbat) — Perplexity's endpoint visibility tool for AI agent activity. On-device detection, optional pre-action blocking, and forensic reconstruction of what an agent did. Apache-2.0.
 - [PromptInject](https://github.com/agencyenterprise/PromptInject) — Framework for quantitative analysis of LLM robustness to prompt attacks (NeurIPS '22 Best Paper).
 - [Rebuff](https://github.com/protectai/rebuff) — Prompt injection detection.
 - [repo-forensics](https://github.com/alexgreensh/repo-forensics) — Offline security scanner for AI-agent repos, skills, plugins, and MCP servers.
